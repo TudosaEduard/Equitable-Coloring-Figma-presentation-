@@ -36,14 +36,14 @@
         <h2>2. Introduction</h2>
         <p></p>
     </section>
-    <section id="structure" role="doc-structure">
+    <section id="user-interface" role="doc-structure">
         <h2>3. User-Interface</h2>
         <p></p>
     </section>
-    <section id="use-cases" role="doc-structure">
+    <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
         <p></p>
-    </section>
+    </section id="personas" role="doc-structure">
         <h2>5. Personas</h2>
         <p></p>
     </section>
