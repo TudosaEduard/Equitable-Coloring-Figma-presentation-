@@ -57,6 +57,10 @@ Here is a first sketch of the main page:<br><br><br></p>
         <img src="Prototypes/Kierstead.png" width="550" height="450">
         <p><br><br>The demonstration and the code are not yet complete, therefore a final sketch and prototypes made after this will come on the side of special notations of the algorithm in question.<br><br><br></p>
         <img src="Wireframes/NotificationWireframe.png" width="450" height="350">
+        <p><br><br>And the prototypes: <br><br><br></p>
+        <img src="Prototypes/Notation1.png" width="550" height="450">
+        <img src="Prototypes/Notation2.png" width="550" height="450">
+        <img src="Prototypes/Notation3.png" width="550" height="450">
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
