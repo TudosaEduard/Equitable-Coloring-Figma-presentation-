@@ -51,6 +51,8 @@ Here is a first sketch of the main page:<br><br><br></p>
         <img src="Wireframes/HomepageWireframe.png" width="450" height="350">
         <p><br><br>The design is simple, with few elements, a few buttons with certain functionalities, the sketch being easy to materialize in the first prototype made:<br><br><br></p>
         <img src="Prototypes/HomepagePrototype.png" width="550" height="450">
+        <p><br><br>Next we went on to the actual realization of the pages of the algorithms we want to present. Here I had to think about the most essential things of interest for these algorithms. Thus we arrived at the following sketch:<br><br><br></p>
+        <img src="Wireframes/AlgorithmWireframe.png" width="450" height="350">
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
