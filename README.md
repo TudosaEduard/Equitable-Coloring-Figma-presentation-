@@ -56,7 +56,7 @@ Here is a first sketch of the main page:<br><br><br></p>
         <p><br><br>Thus with this sketch we were able to make in the figma the pages for the 2 algorithms, where we wanted to touch in general the special notations that the algorithm presents, the demonstration of the algorithm, as well as that pseudocode referring to the code. A prototype made for this sketch is the following (later I will add the code part):<br><br><br></p>
         <img src="Prototypes/Kierstead.png" width="550" height="450">
         <p><br><br>The demonstration and the code are not yet complete, therefore a final sketch and prototypes made after this will come on the side of special notations of the algorithm in question.<br><br><br></p>
-        <img src="Wireframes/NotationWireframe.png" width="450" height="350">
+        <img src="Wireframes/NotificationWireframe.png" width="450" height="350">
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
