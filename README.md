@@ -26,6 +26,12 @@
             <li><a href="#4-qoc">QOC</a>
             </li>
             <li><a href="#5-personas">Personas</a>
+            </li>
+            <li><a href="#6-observations">Observations</a>
+            </li>
+            <li><a href="#7-conclusion">Conclusion</a>
+            </li>
+            <li><a href="#8-feedback">Feedback</a>
         </ol>
     </div>
     <section id="abstract" role="doc-abstract">
@@ -45,6 +51,18 @@
         <p></p>
     </section id="personas" role="doc-structure">
         <h2>5. Personas</h2>
+        <p></p>
+    </section>
+    </section id="observations" role="doc-structure">
+        <h2>6. Observations</h2>
+        <p></p>
+    </section>
+    </section id="conclusion" role="doc-structure">
+        <h2>7. Conclusion</h2>
+        <p></p>
+    </section>
+    </section id="feedback" role="doc-structure">
+        <h2>8. Feedback</h2>
         <p></p>
     </section>
     </header>
