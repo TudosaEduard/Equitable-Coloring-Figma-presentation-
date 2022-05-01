@@ -50,11 +50,13 @@
 Here is a first sketch of the main page:<br><br><br></p>
         <img src="Wireframes/HomepageWireframe.png" width="450" height="350">
         <p><br><br>The design is simple, with few elements, a few buttons with certain functionalities, the sketch being easy to materialize in the first prototype made:<br><br><br></p>
-        <img src="Prototypes/HomepagePrototype.png" width="600" height="450">
+        <img src="Prototypes/HomepagePrototype.png" width="550" height="450">
         <p><br><br>Next we went on to the actual realization of the pages of the algorithms we want to present. Here I had to think about the most essential things of interest for these algorithms. Thus we arrived at the following sketch:<br><br><br></p>
         <img src="Wireframes/AlgorithmWireframe.png" width="450" height="350">
         <p><br><br>Thus with this sketch we were able to make in the figma the pages for the 2 algorithms, where we wanted to touch in general the special notations that the algorithm presents, the demonstration of the algorithm, as well as that pseudocode referring to the code. A prototype made for this sketch is the following (later I will add the code part):<br><br><br></p>
-        <img src="Prototypes/Kierstead.png" width="600" height="450">
+        <img src="Prototypes/Kierstead.png" width="550" height="450">
+        <p><br><br>The demonstration and the code are not yet complete, therefore a final sketch and prototypes made after this will come on the side of special notations of the algorithm in question.<br><br><br></p>
+        <img src="Wireframes/NotationWireframe.png" width="450" height="350">
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
