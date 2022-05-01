@@ -48,9 +48,9 @@
         <p>The interface that I made, as I said before, was made in this application called figma, an application that is easy to use, easy to learn and has many interesting tools. One of these tools that I used was a plugin for math symbols called LaTeX Complete.<br><br>
         A first step in creating the interface was to plan / sketch the main page, as well as some standard elements that will appear on any page (title, logo).
 Here is a first sketch of the main page:<br><br><br></p>
-        <img src="Wireframes/HomepageWireframe.png" width="400" height="350">
+        <img src="Wireframes/HomepageWireframe.png" width="450" height="350">
         <p><br><br>The design is simple, with few elements, a few buttons with certain functionalities, the sketch being easy to materialize in the first prototype made:<br><br><br></p>
-        <img src="Prototypes/HomepagePrototype.png" width="400" height="350">
+        <img src="Prototypes/HomepagePrototype.png" width="450" height="350">
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
