@@ -41,7 +41,7 @@
     </section>
     <section id="introduction" role="doc-introduction">
         <h2>2. Introduction</h2>
-        <p>This project made in the figma application represents an interactive presentation of the theoretical part on which my license is based (polynomial algorithms that solve a difficult problem of fair coloring of nodes).</p>
+        <p>This project made in the figma application represents an interactive presentation of the theoretical part on which my license is based (polynomial algorithms that solve a difficult problem of fair coloring of nodes).<br><br>In short, this equitable coloring of nodes represents the division of a graph into coloring classes, where the cardinals of these classes differ from each other by at most one node.<br><br>This coloring will be studied through the prism of 2 polynomial algorithms (one recursive and one greedy), and for them will be brought to the presentation things related to various important notations, demonstrations that led to solving the problem and a pseudocode related to the code realized.</p>
     </section>
     <section id="user-interface" role="doc-structure">
         <h2>3. User-Interface</h2>
