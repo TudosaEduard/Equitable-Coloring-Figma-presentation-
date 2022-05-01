@@ -49,6 +49,7 @@
         A first step in creating the interface was to plan / sketch the main page, as well as some standard elements that will appear on any page (title, logo).
 Here is a first sketch of the main page:<br><br><br></p>
         <img src="Wireframes/HomepageWireframe.png" width="400" height="350">
+        <p><br><br>The design is simple, with few elements, a few buttons with certain functionalities, the sketch being easy to materialize in the first prototype made:<br><br><br></p>
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
