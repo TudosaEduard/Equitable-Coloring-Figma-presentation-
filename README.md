@@ -41,7 +41,7 @@
     </section>
     <section id="introduction" role="doc-introduction">
         <h2>2. Introduction</h2>
-        <p></p>
+        <p>This project made in the figma application represents an interactive presentation of the theoretical part on which my license is based (polynomial algorithms that solve a difficult problem of fair coloring of nodes).</p>
     </section>
     <section id="user-interface" role="doc-structure">
         <h2>3. User-Interface</h2>
