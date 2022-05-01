@@ -64,7 +64,7 @@ Here is a first sketch of the main page:<br><br><br></p>
     </section>
     <section id="qoc" role="doc-structure">
         <h2>4. QOC</h2>
-        <p></p>
+        <p>Regarding the QOC, a first thing would be the design proposed by me for this presentation. This is a nice one, not at all tiring, the colors are erased so that it is pleasing to the eye, and the pages are not loaded with many elements. Another important thing would be the menus. I opted for more pages with simple menus than dropdown menus. It seems more practical because dropdown menus can be difficult, especially for people who use the touchpad on their laptop, so I chose the best solution for any user. Although maybe a dopdown menu could give me an easier handling of the pages I want to go to, but clearly with this would lose the logic behind the presentation. One last mention might be the possibility to go back from the notation / demonstration / code page to the algorithm page and then from it to the main page rather than going back to the main page directly. Personally, I find it much more practical and interesting to watch, but now I do not guarantee here that I am absolutely right (it was just my own choice).</p>
     </section id="personas" role="doc-structure">
         <h2>5. Personas</h2>
         <p></p>
