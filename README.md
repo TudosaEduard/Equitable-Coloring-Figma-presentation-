@@ -36,13 +36,7 @@
     </div>
     <section id="abstract" role="doc-abstract">
         <h2>1. Abstract</h2>
-        <p>Consider as a HCI project the software application to be developed in order to achieve your BSc (Bachelor of Science) title. The project requires to envision and design an interactive solution based on the existing HCI principles, methods, and best practices – for details & useful resources, study the HCI discipline film. 
-
-            <br>It is desirable that the icons, images, and other multimedia content of the user interface to be original. 
-
-            <br>Open source approaches and proposals from the enrolled students are highly encouraged. 
-
-            <br>The code-source and specific content (data) must be available under the terms of the open source licenses and/or Creative Commons.
+        <p>Consider as a HCI project the software application to be developed in order to achieve your BSc (Bachelor of Science) title. The project requires to envision and design an interactive solution based on the existing HCI principles, methods, and best practices – for details & useful resources, study the HCI discipline film.<br>It is desirable that the icons, images, and other multimedia content of the user interface to be original.<br>Open source approaches and proposals from the enrolled students are highly encouraged.<br>The code-source and specific content (data) must be available under the terms of the open source licenses and/or Creative Commons.
 </p>
     </section>
     <section id="introduction" role="doc-introduction">
