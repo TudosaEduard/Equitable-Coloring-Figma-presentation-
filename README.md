@@ -71,15 +71,16 @@ Here is a first sketch of the main page:<br><br><br></p>
     </section>
     </section id="observations" role="doc-structure">
         <h2>6. Observations</h2>
-        <p></p>
+        <p>This section is intended for some interface-related observations. This posted interface is just a prototype, it will be updated after the license expires. Here is just an example of "how I would like to make my license presentation", and you, if you wish, will come with additions related to the design or any other nuances in the feedback section. Otherwise it will be redone after finishing the work (which should be as soon as possible, I hope :)))). change the idea (s) I have. Thank you very much!</p>
     </section>
     </section id="conclusion" role="doc-structure">
         <h2>7. Conclusion</h2>
-        <p></p>
+        <p>In conclusion, following this topic, I managed to learn a new tool (Figma) that I hope will help me in the future in making designs for certain interfaces. I also want to mention here that the hours I had in the HCI subject were very useful to me, because I learned quite important things related to "how an interface should look like in order to please them. to everyone :))) ".</p>
     </section>
     </section id="feedback" role="doc-structure">
         <h2>8. Feedback</h2>
-        <p></p>
+        <p>
+Here please edit the paragraph and leave any feedback, if possible!</p>
     </section>
     </header>
 </body>
